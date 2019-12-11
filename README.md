@@ -98,14 +98,5 @@ Please refer to the link for more information:
 Syncfusion has no liability for any damage or consequence that may arise by the use or viewing of the samples. The samples are for demonstrative purposes and if you choose to use or access the samples you agree to not hold Syncfusion liable, in any form, for any damage that is related to use, accessing or otherwise viewing the samples. By accessing, viewing, or otherwise seeing the samples you acknowledge and agree Syncfusion’s samples will not allow you to seek injunctive relief in any form for any claim related to the sample. If you do not agree to this, do not view, access, utilize or otherwise do anything with Syncfusion’s samples.
 
 
-## Support and Feedback ##
 
-* For using the Syncfusion controls, refer the following User Guide links.
 
-   * [Xamarin.Forms](https://help.syncfusion.com/xamarin/introduction/overview)
-   * [Xamarin.Android](https://help.syncfusion.com/xamarin-android/introduction/overview)
-   * [Xamarin.iOS](https://help.syncfusion.com/xamarin-ios/introduction/overview)
-
-* For any other queries, reach our [Syncfusion support team](https://www.syncfusion.com/support/directtrac/incidents/newincident) or post the queries through the [community forums](https://www.syncfusion.com/forums).
-
-* To renew the subscription, click [here](https://www.syncfusion.com/sales/products) or contact our sales team at <salessupport@syncfusion.com>.
